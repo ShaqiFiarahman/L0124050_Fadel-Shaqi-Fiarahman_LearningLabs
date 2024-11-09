@@ -9,7 +9,6 @@ Welcome to the Genshin Impact Project! This repository is a web-based project th
 - Installation
 - Usage
 - Contributing
-- License
 
 ### Introduction
 This project is designed as a simple and informative website to provide users with details about the game's elemental system, playable characters, and adventure features. It is built using HTML, CSS, and JavaScript, along with Bootstrap for responsive design.
@@ -52,7 +51,6 @@ This project is designed as a simple and informative website to provide users wi
 ### Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
-### License
-This project is open source and available under the MIT License.
+
 
 Feel free to modify this as needed!
